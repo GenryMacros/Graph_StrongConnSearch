@@ -1,0 +1,38 @@
+﻿  UI.cpp
+C:\Users\Light\source\repos\GraphConnectivity\GraphConnectivity\UI.cpp(55,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\GraphConnectivity\GraphConnectivity\UI.cpp(55,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\GraphConnectivity\GraphConnectivity\UI.cpp(58,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\GraphConnectivity\GraphConnectivity\UI.cpp(58,48): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GraphConnectivity.vcxproj -> C:\Users\Light\source\repos\GraphConnectivity\Debug\GraphConnectivity.exe
